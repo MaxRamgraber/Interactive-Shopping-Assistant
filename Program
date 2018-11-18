@@ -1,0 +1,63 @@
+   {
+
+      question: "Who are you buying this gift for?",
+
+      answers: {
+
+        a: "A relative",
+
+        b: "*A friend",
+
+        c: "A colleague"
+
+      },
+
+    },
+
+    {
+
+      question: "How would you describe the gift recipient's preference of style?",
+
+      answers: {
+
+        a: "Modern",
+
+        b: "Classical and timeless",
+
+        c: "Unostentatious",
+
+      },
+
+    },
+    
+     {
+
+      question: "What's the haptic preference of the gift recipient?",
+
+      answers: {
+
+        a: "Aereated fabric with a low thread count",
+
+        b: "Firmer, yet soft to the touch with a medium thread count",
+
+        c: "dense and warming with a high thread count",
+
+      },
+
+    },
+    
+     {
+
+      question: "How does the gift recipient like to spend their free time on days off?",
+
+      answers: {
+
+        a: "Sleeping in and relaxing",
+
+        b: "Being active and adventurous",
+
+        c: "Wellness and treating themselves",
+
+      },
+
+    },
